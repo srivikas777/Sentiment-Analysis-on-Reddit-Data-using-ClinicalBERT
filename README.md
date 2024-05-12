@@ -14,8 +14,8 @@ This project employs sentiment analysis on Reddit posts and comments related to 
 
 3. **Accessing Datasets and Models:**
    All datasets and pre-trained models are included in the provided folder.
-   You can access the fine-tuned model from this link: https://drive.google.com/file/d/1rv6yCwQn3sfGMO8cS_udbeIiRa_eAs-3/view?usp=drive_link
-   Due to its large size, I'm unable to upload it here.
+   You can access the fine-tuned model from this link(Due to its large size, I'm unable to upload it here.): https://drive.google.com/file/d/1rv6yCwQn3sfGMO8cS_udbeIiRa_eAs-3/view?usp=drive_link
+   
 5. **Running the Code:**
    Simply run the provided notebooks after setting up credentials and dependencies.
 
