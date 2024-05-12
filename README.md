@@ -35,7 +35,7 @@ This project employs sentiment analysis on Reddit posts and comments related to 
 
 ## Examples:
 
-- **Data Collected:** Sample post from Clinical Trials subreddit.
+- **Data Collected:** Sample posts and comments from reddit.
 - **Analysis Performed:** Sentiment analysis results.
 - **Messages Generated:** Personalized messages for clinical trials enthusiasts.
 
